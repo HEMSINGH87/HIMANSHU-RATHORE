@@ -1,0 +1,6 @@
+Apt update 
+Apt upgrade
+Apt install wget
+Wget -O install-nethunter-termux https://office.ce/2MecWZr
+Chmod +× install-nethunter-termux
+./install-nethunter-termux 
